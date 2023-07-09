@@ -4,6 +4,7 @@ __pycache__
 *.egg-info
 dist
 .venv
+.env
 
 # Log
 *.log
@@ -20,7 +21,8 @@ dist
 .DS_Store
 wandb
 output
-llm
+THUDM
+lmsys
 start.sh
 
 # Data
