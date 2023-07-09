@@ -20,6 +20,8 @@ dist
 .DS_Store
 wandb
 output
+llm
+start.sh
 
 # Data
 *.pkl
